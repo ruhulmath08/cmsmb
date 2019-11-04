@@ -11,9 +11,9 @@ foreach ($db as $key => $value) {
 $connectionDB = mysqli_connect(DB_HOST, DB_USER, DB_PASS, DB_NAME);
 
 // Check connection
-if ($connectionDB) {
-   echo "Connect Successfully!!!";
-}else{
-echo "Cannot connect, Something wrong";
-}
+// if ($connectionDB) {
+//    echo "Connect Successfully!!!";
+// }else{
+// echo "Cannot connect, Something wrong";
+// }
 ?>
