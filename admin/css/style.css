@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px;
+    /* color: black; */
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.cardMyFooter {
+    padding: 0;
+    background-color: #FFF;
+}
+
+#wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+.body-section {
+    padding-bottom: 70px;
+}
+
+footer {
+    background: #2FA4E7;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    font-size: 15px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: white;
+    font-weight: bold;
+}
+
+footer a:hover {
+    color: #e3e3e3;
+}

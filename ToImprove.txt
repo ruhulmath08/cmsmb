@@ -1,0 +1,28 @@
+1) Improve pagination when URL use cat_id (next & preview) not working
+
+2) When Search active pagination is not working
+
+3) Separate database for author
+
+4) Display total comment like => Comment(100)
+
+5) https://github.com/syntaxhighlighter/syntaxhighlighter
+
+6) Check username password separately using user define function.
+
+7) Before delete user display a alert dialog and delete the user.
+
+8) Display success and error message from function.
+
+9) Improve comment section ard replay comment
+
+10) Have to solve footer related problem (part-4 => 6:02)
+
+11) Add syntaxHiLiter with tinyMCE
+
+12) Manage image in a smart way (images => static image only, uploads => uploads by user) (Done)
+
+13) Related post not working if post title contains single quote (');
+
+
+++++++++++ continue => 79=>8.32
