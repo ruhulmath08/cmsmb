@@ -1,8 +1,8 @@
 <?php
-$db["db_host"] = "sql12.freemysqlhosting.net";
-$db["db_user"] = "sql12310720";
-$db["db_pass"] = "WWalV4k3dL";
-$db["db_name"] = "sql12310720";
+$db["db_host"] = "remotemysql.com";
+$db["db_user"] = "3SWBCXYiSd";
+$db["db_pass"] = "iprWkMh8Og";
+$db["db_name"] = "3SWBCXYiSd";
 
 foreach ($db as $key => $value) {
     define(strtoupper($key), $value);
